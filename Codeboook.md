@@ -79,7 +79,6 @@ The dataset is then divided in two parts and they can be used separately.
 - An identifier of the subject who carried out the experiment.
 
 ### Notes:
-======
 
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the 'X' and 'y' files.
